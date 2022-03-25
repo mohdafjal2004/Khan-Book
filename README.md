@@ -1,2 +1,2 @@
 # Project-Management-Tool
-A project for managing personal projects
+A Tool for managing personal projects
